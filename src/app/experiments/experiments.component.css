@@ -1,8 +1,12 @@
 .displayBox {
-    height: 275px;
-    width: auto;
+  height: 275px;
+  width: auto;
 }
 
 h3 {
-    text-align: center;
+  text-align: center;
+}
+
+.selected {
+  color: blue;
 }
